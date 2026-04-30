@@ -4,7 +4,10 @@ Markdown versions of regulatory documents for Zambia, sourced from the DBNSA Reg
 
 ## Documents
 
-*Document index will be updated once files are processed.*
+| Document | Source File |
+|---|---|
+| [Zambia Betting Control Act](Zambia_Betting_Control_Act.md) | Zambia Betting Control Act.pdf |
+| [Zambia Casino Act](Zambia_Casino_Act.md) | Zambia Casino Act.pdf |
 
 ## Source
 
