@@ -1,6 +1,10 @@
 # Zambia Regulatory Documents
 
-Markdown versions of regulatory documents for Zambia, extracted from the DBNSA Regulatory Repository.
+Markdown versions of regulatory documents for Zambia, sourced from the DBNSA Regulatory Repository and converted for easy reference and version tracking.
+
+## Documents
+
+*Document index will be updated once files are processed.*
 
 ## Source
 
